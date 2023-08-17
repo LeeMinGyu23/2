@@ -7,3 +7,5 @@
 
 ![image](https://github.com/LeeMinGyu23/2/assets/117800561/8fe6b500-8a66-461f-a90d-268724b5d38c)
 애는 enumerate를 사용한거라서 둘이 비교해서 기억하기
+
+![image](https://github.com/LeeMinGyu23/2/assets/117800561/5ea19931-115d-4d33-9e93-79e01515bba0)
