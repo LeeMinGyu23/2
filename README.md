@@ -9,3 +9,5 @@
 애는 enumerate를 사용한거라서 둘이 비교해서 기억하기
 
 ![image](https://github.com/LeeMinGyu23/2/assets/117800561/5ea19931-115d-4d33-9e93-79e01515bba0)
+
+![image](https://github.com/LeeMinGyu23/2/assets/117800561/0dd3c68b-5315-47f1-83e8-8195c7978f4b)
